@@ -81,4 +81,3 @@ $$
 ## 文件
 
 - [SKILL.md](SKILL.md)：完整中文阅读规则。
-- [agents/openai.yaml](agents/openai.yaml)：Codex 中的英文显示名称。
